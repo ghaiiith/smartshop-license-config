@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-  "apiBaseUrl": "https://191.218.161.18:8443",
+  "apiBaseUrl": "https://smartshop.cc.cd",
   "minimumClientVersion": "3.0.0",
   "publicKeySha256": "67c9d1dceb09b1ded25fae5faf8e594ea652ddf4dfc3bace3591411d188d0cd3",
   "message": "SmartShop licensing platform is online."
