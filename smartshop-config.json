@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "apiBaseUrl": "https://191.218.161.18:8443",
+  "minimumClientVersion": "3.0.0",
+  "publicKeySha256": "",
+  "message": "SmartShop licensing platform is being prepared."
+}
